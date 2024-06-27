@@ -1,6 +1,5 @@
 ## Hi, I'm Amandeep Sisodia 👋
 
-<!--
 **Amandeep0026/Amandeep0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +20,4 @@ Here are some ideas to get you started:
 - **GitHub**: [Amandeep0026](https://github.com/Amandeep0026)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
--->
+
